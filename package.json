@@ -1,0 +1,23 @@
+{
+  "name": "nightwatch-example-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nightwatch.conf.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pineviewlabs/nightwatch-example-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pineviewlabs/nightwatch-example-tests/issues"
+  },
+  "homepage": "https://github.com/pineviewlabs/nightwatch-example-tests#readme",
+  "dependencies": {
+    "@pineview/nightwatch": "^2.0.3-DEV",
+    "chromedriver": "^86.0.0",
+    "nightwatch": "^1.4.3"
+  }
+}
