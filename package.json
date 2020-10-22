@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/pineviewlabs/nightwatch-example-tests#readme",
   "dependencies": {
-    "@pineview/nightwatch": "^2.0.3-DEV",
+    "@pineview/nightwatch": "^2.0.4-DEV",
     "chromedriver": "^86.0.0",
     "nightwatch": "^1.4.3"
   }
